@@ -1,0 +1,30 @@
+.header-image {
+  display: flex;
+  justify-content: center;
+}
+
+.profile {
+  width: 200px;
+  height: 200px;
+  border-radius: 999px;
+  object-fit: cover;
+}
+
+.title {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.instagram,
+.youtube,
+.linkedin,
+.medium,
+.gmail,
+.twitter {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  font-family: "Poppins", sans-serif;
+}
